@@ -1,3 +1,3 @@
 # Learning-Vault
 
-My Learning Journey - Documented As I Proceed
+My Learnings - Documented As I Proceed
